@@ -3,15 +3,26 @@ Bunch of XAPK for emulator
 
 # Pengenalan / Introduction
 XAPK ini ditujukan untuk instalasi bersih di emulator
+
 _This XAPK provided for clean installation at emulator_
 
 # Gunakan XAPK ini untuk... / Use This XAPK for...
-- Instalasi Pertama (_First Installation_)
-- Melakukan Update Game yang versinya terlalu jauh/terlalu tua (_Updating game that have very old/very obsolete version_)
-- Melakukan Update game yang server update in-game-nya lemot (_Updating game that have very slow in-game server updates_)
+- Instalasi Pertama 
+
+(_First Installation_)
+
+- Melakukan Update Game yang versinya terlalu jauh/terlalu tua 
+
+(_Updating game that have very old/very obsolete version_)
+
+- Melakukan Update game yang server update in-game-nya lemot 
+
+(_Updating game that have very slow in-game server updates_)
 
 # Jangan Gunakan XAPK ini untuk... / Don't use this XAPK for...
-- Update biasa yang tidak terlalu besar (_Regular updates that didn't require much data_)
+- Update biasa yang tidak terlalu besar 
+
+(_Regular updates that didn't require much data_)
 
 # Link dan update
 XAPK ini akan diupdate sebisanya dan semampunya, sesuai situasi dan kondisi
@@ -22,8 +33,13 @@ _This XAPK will be updated depend on the situation and if i have much time_
 _For XAPK that i didnt repack for it, the links will be directed to groups, not the original ones_
 
 # Jangan Lakukan / Don't do
-- Menjual file XAPK ini (_Don't sell the XAPK's files_)
-- Jangan reupload filenya (_DOn't reupload the files_)
+- Menjual file XAPK ini 
+
+(_Don't sell the XAPK's files_)
+
+- Jangan reupload filenya 
+
+(_Don't reupload the files_)
 
 # List XAPK
 
@@ -39,3 +55,6 @@ _For XAPK that i didnt repack for it, the links will be directed to groups, not 
 # Terima Kasih Kepada / Thank's to
 - Indra Pessor ([FB](https://www.facebook.com/pessor))
 - APLIKASI PORTABLE SARANG-NET ([Facebook Groups](https://www.facebook.com/groups/sarangnet))
+
+# Request XAPK?
+Hubungi aku via [Facebook](https://fb.com/xbe24)
