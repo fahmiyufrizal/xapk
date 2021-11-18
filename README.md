@@ -46,7 +46,7 @@ _For XAPK that i didnt repack for it, the links will be directed to groups, not 
 
 | No      | App Name           | Play Store Link  | Author | Version | Last Updated | Link XAPK | Tested at |
 | ------- |--------------------| -----------------|--------|---------|--------------|-----------|-----------|
-| 1     | Mobile Legend's Bang Bang | [PlayStore](https://play.google.com/store/apps/details?id=com.mobile.legends) | [fahmiyufrizal](https://fb.com/xbe24) | 1.6.26.6851 | Oct 29, 2021 | [Gdrive](https://bit.ly/3Es0TJj) | Gameloop 4.4 & Gameloop 7.1 |
+| 1     | Mobile Legends Bang Bang | [PlayStore](https://play.google.com/store/apps/details?id=com.mobile.legends) | [fahmiyufrizal](https://fb.com/xbe24) | 1.6.26.6851 | Oct 29, 2021 | [Gdrive](https://bit.ly/3Es0TJj) | Gameloop 4.4 & Gameloop 7.1 |
 | 2     | Free Fire Garena | [PlayStore](https://play.google.com/store/apps/details?id=com.dts.freefireth) | [Indra Pessor](https://www.facebook.com/pessor) | 1.65.2 | Sep 28, 2021 | [Facebook Groups](https://www.facebook.com/groups/sarangnet/posts/3131378717132932) | Gameloop 4.4, Gameloop 7.1, Bluestacks 5 7.1 |
 | 3     | Free Fire Garena MAX | [PlayStore](https://play.google.com/store/apps/details?id=com.dts.freefiremax) | [Indra Pessor](https://www.facebook.com/pessor) | 1.65.1 | Sep 28, 2021 | [Facebook Groups](https://www.facebook.com/groups/sarangnet/posts/3131213993816071/) | Gameloop 4.4, Gameloop 7.1, Bluestacks 5 7.1 |
 | 4     | PUBG Mobile | [PlayStore](https://play.google.com/store/apps/details?id=com.tencent.ig) | [fahmiyufrizal](https://fb.com/xbe24) | 1.7.0 | Nov 18, 2021 | [Gdrive](https://bit.ly/2YXmiuK) | Gameloop 4.4, Bluestacks 5 7.1 |
@@ -59,3 +59,6 @@ _For XAPK that i didnt repack for it, the links will be directed to groups, not 
 
 # Request XAPK?
 Hubungi aku via [Facebook](https://fb.com/xbe24)
+
+# Tag (don't mind me)
+ML XAPK, Mobile Legends XAPK, CODM XAPK, COD Mobile XAPK, COD Mobile Garena XAPK, PUBG Mobile XAPK, PUBGM XAPK, Chess Rush XAPK, FF XAPK, FF MAX XAPK, Free Fire XAPK, Free Fire MAX XAPK
