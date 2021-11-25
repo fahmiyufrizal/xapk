@@ -50,7 +50,7 @@ _For XAPK that i didnt repack for it, the links will be directed to groups, not 
 | 2     | Free Fire Garena | [PlayStore](https://play.google.com/store/apps/details?id=com.dts.freefireth) | [Indra Pessor](https://www.facebook.com/pessor) | 1.65.2 | Sep 28, 2021 | [Facebook Groups](https://www.facebook.com/groups/sarangnet/posts/3131213993816071/) | Gameloop 4.4, Gameloop 7.1, Bluestacks 5 7.1 |
 | 3     | Free Fire Garena MAX | [PlayStore](https://play.google.com/store/apps/details?id=com.dts.freefiremax) | [Indra Pessor](https://www.facebook.com/pessor) | 1.65.1 | Sep 28, 2021 | [Facebook Groups](https://www.facebook.com/groups/sarangnet/posts/3131378717132932) | Gameloop 4.4, Gameloop 7.1, Bluestacks 5 7.1 |
 | 4     | PUBG Mobile | [PlayStore](https://play.google.com/store/apps/details?id=com.tencent.ig) | [fahmiyufrizal](https://fb.com/xbe24) | 1.7.0 | Nov 18, 2021 | [Gdrive](https://bit.ly/2YXmiuK) | Gameloop 4.4, Bluestacks 5 7.1 |
-| 5     | COD Mobile Garena | [PlayStore](https://play.google.com/store/apps/details?id=com.garena.game.codm) | [fahmiyufrizal](https://fb.com/xbe24) | 1.6.29 | Nov, 19 2021 | [Gdrive](https://drive.google.com/file/d/1Ounzk9W7WaECqVq-tZWyUE7jjbF6xXcU/view?usp=sharing) | Untested |
+| 5     | COD Mobile Garena | [PlayStore](https://play.google.com/store/apps/details?id=com.garena.game.codm) | [fahmiyufrizal](https://fb.com/xbe24) | 1.6.29 | Nov, 19 2021 | [Gdrive](https://bit.ly/3107iwJ) | Untested |
 | 6     | Chess Rush | [PlayStore](https://play.google.com/store/apps/details?id=com.tencent.godgame) | [fahmiyufrizal](https://fb.com/xbe24) | 1.12.59 | Nov, 18 2021 | [Gdrive](https://bit.ly/3qPK4Ew) | Gameloop 4.4, Bluestacks 5 7.1 |
 
 # Terima Kasih Kepada / Thank's to
