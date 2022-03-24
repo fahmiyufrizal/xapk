@@ -48,11 +48,11 @@ _For XAPK that i didnt repack for it, the links will be directed to groups, not 
 | No      | App Name           | Play Store Link  | Author | Version | Last Updated | Link XAPK | Tested at |
 | ------- |--------------------| -----------------|--------|---------|--------------|-----------|-----------|
 | 1     | Mobile Legends Bang Bang | [PlayStore](https://play.google.com/store/apps/details?id=com.mobile.legends) | [fahmiyufrizal](https://fb.com/xbe24) | 1.6.50.7101 | Jan 21, 2022 | [Gdrive](https://bit.ly/35cYsOl) | Gameloop 4.4 & Gameloop 7.1 |
-| 2     | Free Fire Garena | [PlayStore](https://play.google.com/store/apps/details?id=com.dts.freefireth) | [fahmiyufrizal](https://www.facebook.com/xbe24) | 1.69.1 | Jan 21, 2022 | [Gdrive](https://bit.ly/3rDOFsk) | Gameloop 4.4, Bluestacks 5 7.1 |
-| 3     | Free Fire Garena MAX | [PlayStore](https://play.google.com/store/apps/details?id=com.dts.freefiremax) | [fahmiyufrizal](https://www.facebook.com/xbe24) | 1.69.5 | Jan 21, 2022 | [Gdrive](https://bit.ly/3rL10ef) | Gameloop 4.4,  Bluestacks 5 7.1 |
+| 2     | Free Fire Garena | [PlayStore](https://play.google.com/store/apps/details?id=com.dts.freefireth) | [fahmiyufrizal](https://www.facebook.com/xbe24) | 1.80.3 | Mar 24, 2022 | [Gdrive](https://bit.ly/3tzrj9u) | Gameloop 4.4, Bluestacks 5 7.1 |
+| 3     | Free Fire Garena MAX | [PlayStore](https://play.google.com/store/apps/details?id=com.dts.freefiremax) | [fahmiyufrizal](https://www.facebook.com/xbe24) | 2.80.3 | Mar 24, 2022 | [Gdrive](https://bit.ly/3D95NLU) | Gameloop 4.4,  Bluestacks 5 7.1 |
 | 4     | PUBG Mobile | [PlayStore](https://play.google.com/store/apps/details?id=com.tencent.ig) | [fahmiyufrizal](https://fb.com/xbe24) | 1.7.0 | Nov 18, 2021 | [Gdrive](https://bit.ly/2YXmiuK) | Gameloop 4.4, Bluestacks 5 7.1 |
 | 5     | COD Mobile Garena | [PlayStore](https://play.google.com/store/apps/details?id=com.garena.game.codm) | [fahmiyufrizal](https://fb.com/xbe24) | 1.6.29 | Nov, 19 2021 | [Gdrive](https://bit.ly/3107iwJ) | Untested |
-| 6     | Chess Rush | [PlayStore](https://play.google.com/store/apps/details?id=com.tencent.godgame) | [fahmiyufrizal](https://fb.com/xbe24) | 1.12.59 | Nov, 18 2021 | [Gdrive](https://bit.ly/3qPK4Ew) | Gameloop 4.4, Bluestacks 5 7.1 |
+| 6     | Chess Rush (Discontinued) | [PlayStore](https://play.google.com/store/apps/details?id=com.tencent.godgame) | [fahmiyufrizal](https://fb.com/xbe24) | 1.12.59 | Nov, 18 2021 | [Gdrive](https://bit.ly/3qPK4Ew) | Gameloop 4.4, Bluestacks 5 7.1 |
 
 # Terima Kasih Kepada / Thank's to
 - Indra Pessor ([FB](https://www.facebook.com/pessor))
